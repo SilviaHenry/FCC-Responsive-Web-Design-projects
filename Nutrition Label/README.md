@@ -1,0 +1,1 @@
+The Nutritional Label HTML and CSS explores typography as an art of creating readable, suitable and functional product. 
